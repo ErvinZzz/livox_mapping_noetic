@@ -1,4 +1,8 @@
 ## Livox_mapping
+
+modified to support ubuntu 20.04 with ROS1 noetic
+
+-----------------------------------------------------------------------------------------
 Livox_mapping is a mapping package for Livox LiDARs. 
 The package currently contains the basic functions of low-speed mapping.
 
